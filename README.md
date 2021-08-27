@@ -1,4 +1,4 @@
 # my_gulp
-My version of Gulp Task Runner
-	// Команда для установки всех зависимостей из package.json:
-		npm i
+<p>My version of Gulp Task Runner</p>
+<p>// Команда для установки всех зависимостей из package.json:</p>
+<p>npm i</p>
